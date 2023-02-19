@@ -1,5 +1,7 @@
 # University-Course-Registration-System-using-OOP
 
+A University Course Registration System that implements Abstraction, Encapsulation, Inheritance, Method Overriding, Method Overloading, Polymorphism, File/IO in Java, and Serialization/Deserialization and Binary Files in Java.
+
 ## Required information about each course: 
 
 Course name, Course id, Maximum number of students registered in the course<br>
